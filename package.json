@@ -6,7 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Nguyen Huu Thanh",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hoanganhnh2009/react-native-star-rating.git"
+  },
+  "homepage": "https://github.com/hoanganhnh2009/react-native-star-rating#readme",
+    "bugs": {
+        "url": "https://github.com/hoanganhnh2009/react-native-star-rating/issues"
+    },
   "license": "ISC",
   "dependencies": {
     "react-native-easy-star-rating": "^1.0.0",
