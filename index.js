@@ -23,11 +23,10 @@ class StarRating extends PureComponent {
     this.state = {
       data: [{}, {}, {}, {}, {}],
       data10: [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}],
-      value: 0,
-      datax:new Array(3)
+      value: 0
     };
   }
- /*  componentDidMount(){
+  /*  componentDidMount(){
     this.setState({value:this.props.value})
     this.onStarRatingPress(3)
   } */
@@ -49,7 +48,7 @@ class StarRating extends PureComponent {
       data,
       value: index + 1
     });
-    this.props.selectedStar(index+1)
+    this.props.selectedStar(index + 1);
   }
   render() {
     return (
@@ -58,11 +57,10 @@ class StarRating extends PureComponent {
           style={{
             // flexDirection: "row",
             alignSelf: "stretch",
-            alignItems: "center",
+            alignItems: "center"
             // justifyContent:'center'
           }}
         >
-        {/* {this.state.datax.map(e,i)=>(<Text>{i}</Text>)} */}
           {this.state.data.map((e, i) => {
             return (
               <TouchableOpacity

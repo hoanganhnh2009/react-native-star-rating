@@ -135,6 +135,13 @@ react-is@^16.8.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.8.6.tgz#5bbc1e2d29141c9fbdfed456343fe2bc430a6a16"
   integrity sha512-aUk3bHfZ2bRSVFFbbeVS4i+lNPZr3/WM5jT2J5omUVV1zzcs1nAaf3l51ctA5FFvCRbhrH0bdAsRRQddFJZPtA==
 
+react-native-easy-star-rating@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-easy-star-rating/-/react-native-easy-star-rating-1.0.0.tgz#b88a5fe75b5170b18e4ab24b4117d1158e4255f6"
+  integrity sha512-fxvZ4cQAvePweUn1sNJpWgGXmiJQGjKMJ1DEysnqGBWpz0m5W+h8KKqnKmr7IjBjCAPPeSd4R1ZlE12iwIcz9Q==
+  dependencies:
+    react-native-vector-icons "^6.6.0"
+
 react-native-vector-icons@^6.6.0:
   version "6.6.0"
   resolved "https://registry.yarnpkg.com/react-native-vector-icons/-/react-native-vector-icons-6.6.0.tgz#66cf004918eb05d90778d64bd42077c1800d481b"

@@ -1,1 +1,1 @@
-# react-native-star-rating
+# react-native-easy-star-rating
