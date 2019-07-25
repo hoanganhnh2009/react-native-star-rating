@@ -12,9 +12,24 @@
     "url": "https://github.com/hoanganhnh2009/react-native-star-rating.git"
   },
   "homepage": "https://github.com/hoanganhnh2009/react-native-star-rating#readme",
-    "bugs": {
-        "url": "https://github.com/hoanganhnh2009/react-native-star-rating/issues"
-    },
+  "bugs": {
+    "url": "https://github.com/hoanganhnh2009/react-native-star-rating/issues"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "react native",
+    "star",
+    "stars",
+    "rating",
+    "ratings",
+    "review",
+    "reviews",
+    "react-component",
+    "react-native",
+    "ios",
+    "android"
+  ],
   "license": "ISC",
   "dependencies": {
     "react-native-easy-star-rating": "^1.0.0",
